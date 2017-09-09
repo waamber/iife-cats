@@ -1,1 +1,1 @@
-console.log("AHHHHH main");
+CatStore.catXHR();
