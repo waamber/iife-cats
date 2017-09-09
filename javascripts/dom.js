@@ -38,6 +38,15 @@ var CatStore = ((oldCatStore) =>{
   petContainer.innerHTML = strang;
 };
 
-
   return oldCatStore;
 })(CatStore || {});
+
+
+
+
+
+
+
+
+
+
